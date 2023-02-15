@@ -1,0 +1,53 @@
+h1{
+text-align: center;
+padding: 20px;
+margin-top: 40px;
+}
+
+.data{
+
+
+    display: flex;
+   justify-content: center;
+  
+   
+   
+   
+}
+
+button{
+    background-color: greenyellow;
+    padding: 10px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+
+#rechazo{
+    background-color: rgb(250, 1, 1);
+    position: absolute;
+    margin-right: 200px;
+    transition:   all 0.1s ease  ;
+    -webkit-transition:   all 0.1s ease  ;
+    -moz-transition:   all 0.1s ease  ;
+    -ms-transition:   all 0.1s ease  ;
+    -o-transition:   all 0.1s ease  ;
+
+    
+}
+
+#yes{
+
+    margin-left: 200px;
+}
+
+button:hover{
+    color: rgb(3, 92, 216);
+}
+
+body{
+
+    background-color: rgb(212, 139, 139);
+}
